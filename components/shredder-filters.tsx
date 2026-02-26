@@ -36,7 +36,8 @@ function toLevel(value: string): FilterLevelValue {
     return "";
   }
 
-  return Math.min(RANGE_LEVEL_COUNT, Math.max(1, Math.trunc(parsed)));
+  const parsedLevel = Math.min(RANGE_LEVEL_COUNT, Math.max(1, Math.trunc(parsed)));
+  return parsedLevel as FilterLevelValue;
 }
 
 function buildRangeLevels(values: number[]): FilterRangeLevel[] {
