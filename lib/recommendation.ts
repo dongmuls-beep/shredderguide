@@ -19,7 +19,7 @@ const PEOPLE_MIDPOINT: Record<PeopleBand, number> = {
   over_20: 25
 };
 
-const ENTERPRISE_ARCHIVE_PRESET_ID: "enterprise_archive" = "enterprise_archive";
+const ENTERPRISE_ARCHIVE_PRESET_ID = "enterprise_archive" as const;
 const ENTERPRISE_ARCHIVE_MIN_PRICE = 1_000_000;
 const ARCHIVE_PRIORITY_KEYWORDS = ["자동급지", "스틸", "스틸 제본기"];
 const ARCHIVE_PREFERRED_AUTOFEED_MIN_PRICE = 1_000_000;

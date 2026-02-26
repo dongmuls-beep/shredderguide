@@ -343,7 +343,7 @@ export function ShredderFilters({ locale, dictionary, items }: ShredderFiltersPr
         priceOptionSource,
         (item) => item.price
       ),
-    [basePriceRangeLevels, priceOptionSource, priceRangeLevel]
+    [basePriceRangeLevels, priceOptionSource]
   );
   const sheetRangeLevels = useMemo(
     () =>
