@@ -157,9 +157,13 @@ export function RecommendationWizard({ locale, items, dictionary, onSubmit }: Re
 
     const selectedBudget = budgetOptions.find((option) => option.value === budgetInput);
     const budgetMin =
-      showBudgetInput && Boolean(selectedBudget) && selectedBudget.minBudget !== "" ? selectedBudget.minBudget : undefined;
+      showBudgetInput && selectedBudget !== undefined && selectedBudget.minBudget !== ""
+        ? selectedBudget.minBudget
+        : undefined;
     const budgetMax =
-      showBudgetInput && Boolean(selectedBudget) && selectedBudget.maxBudget !== "" ? selectedBudget.maxBudget : undefined;
+      showBudgetInput && selectedBudget !== undefined && selectedBudget.maxBudget !== ""
+        ? selectedBudget.maxBudget
+        : undefined;
 
     onSubmit({
       ...presetInput,
