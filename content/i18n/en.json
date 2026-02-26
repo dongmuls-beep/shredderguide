@@ -1,0 +1,109 @@
+﻿{
+    "locale":  "en",
+    "site":  {
+                 "title":  "Copyland Shredder Selection AI Agent",
+                 "subtitle":  "Choose one of five preset views and optionally set a budget to get three best-fit recommendations."
+             },
+    "nav":  {
+                "home":  "Recommend",
+                "shredders":  "All Shredders",
+                "maintenance":  "Maintenance",
+                "switchToKo":  "Korean",
+                "switchToEn":  "English"
+            },
+    "wizard":  {
+                   "title":  "Shredder Recommendation Wizard",
+                   "subtitle":  "Choose a preset view and optionally enter a budget for tailored recommendations.",
+                   "profile":  {
+                                   "label":  "Choose a usage scenario",
+                                   "hint":  "Pick the closest match from these five preset views.",
+                                   "options":  {
+                                                   "home_light":  {
+                                                                      "title":  "View 1: Personal/Home",
+                                                                      "description":  "Light volume, low budget, quiet setup"
+                                                                  },
+                                                   "small_office":  {
+                                                                        "title":  "View 2: Small Office",
+                                                                        "description":  "General shredding for a 3-5 person team"
+                                                                    },
+                                                   "team_standard":  {
+                                                                         "title":  "View 3: Shared Team Use",
+                                                                         "description":  "Department-level medium to high volume"
+                                                                     },
+                                                   "security_sensitive":  {
+                                                                              "title":  "View 4: Security Sensitive",
+                                                                              "description":  "Frequent confidential document disposal"
+                                                                          },
+                                                   "enterprise_archive":  {
+                                                                              "title":  "View 5: Enterprise Archive",
+                                                                              "description":  "Heavy disposal and long operation windows"
+                                                                          }
+                                               }
+                               },
+                   "actions":  {
+                                   "submit":  "Get Recommendations",
+                                   "reset":  "Reset"
+                               },
+                   "budget":  {
+                                  "label":  "Enter budget (optional)",
+                                  "hint":  "Leave empty to recommend without a budget limit.",
+                                  "placeholder":  "e.g. 300000"
+                              }
+               },
+    "recommendation":  {
+                           "title":  "Recommendations",
+                           "strictMode":  "Within Budget",
+                           "nearMode":  "Closest Matches",
+                           "noData":  "No product data is available.",
+                           "reasonPeople":  "People fit",
+                           "reasonVolume":  "Daily volume fit",
+                           "reasonBudget":  "Budget fit",
+                           "dailyVolume":  "Estimated daily volume",
+                           "runTime":  "Continuous runtime",
+                           "sheetCapacity":  "Sheet capacity",
+                           "binCapacity":  "Bin capacity",
+                           "securityLevel":  "Security level",
+                           "buyNow":  "View Product",
+                           "currency":  "KRW"
+                       },
+    "maintenanceSummary":  {
+                               "title":  "Maintenance Essentials",
+                               "description":  "Use oiling, jam response, and thermal management routines for stable lifespan.",
+                               "cta":  "Open Full Maintenance Guide"
+                           },
+    "catalog":  {
+                    "title":  "All Shredders",
+                    "subtitle":  "Search, filter, and sort to find the right model quickly.",
+                    "searchPlaceholder":  "Search by name, features, or best-for",
+                    "filters":  {
+                                    "title":  "Filters",
+                                    "minPrice":  "Price range",
+                                    "minSecurityLevel":  "Security level",
+                                    "maxPrice":  "Max price",
+                                    "minSheetCapacity":  "Sheet capacity (manual feed)",
+                                    "minAutofeedCapacity":  "Autofeed capacity",
+                                    "minBinCapacity":  "Bin capacity (L)",
+                                    "minRunTime":  "Continuous runtime (min)",
+                                    "apply":  "Apply",
+                                    "close":  "Close",
+                                    "open":  "Open Filters",
+                                    "reset":  "Reset"
+                                },
+                    "sort":  {
+                                 "label":  "Sort",
+                                 "recommended":  "Recommended",
+                                 "priceAsc":  "Price: Low to High",
+                                 "priceDesc":  "Price: High to Low"
+                             },
+                    "pagination":  {
+                                       "previous":  "Previous",
+                                       "next":  "Next",
+                                       "page":  "Page"
+                                   },
+                    "empty":  "No products match your filters."
+                },
+    "maintenance":  {
+                        "title":  "Shredder Maintenance",
+                        "subtitle":  "Core routines that extend hardware lifespan"
+                    }
+}

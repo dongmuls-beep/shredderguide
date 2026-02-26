@@ -1,0 +1,1365 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-02-19T00:56:38.212Z",
+  "items": [
+    {
+      "id": "4753",
+      "name": "소형 저소음 문서세단기 SC-306CC",
+      "image_url": "https://copierlandmall.com/web/product/medium/202507/bae1b27d2b03ac4fe501609026b585e4.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=4753",
+      "sheet_capacity": 6,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 15,
+      "run_time_min": 5,
+      "features": [
+        "스테플러",
+        "<60dB",
+        "꽃가루"
+      ],
+      "best_for": "가정/개인용",
+      "price": 49400,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 180,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "2222",
+      "name": "소형 저소음 꽃가루 문서세단기 S202",
+      "image_url": "https://copierlandmall.com/web/product/medium/202408/7fab5f953730cc2d110ae79a5ea51df0.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=2222",
+      "sheet_capacity": 2,
+      "cut_size": "3x18mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 2.2,
+      "run_time_min": 8,
+      "features": [
+        "55dB",
+        "서랍식 파지함"
+      ],
+      "best_for": "탁상용/영수증",
+      "price": 43200,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 96,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "7252",
+      "name": "국산 대형 스틸 저소음 꽃가루 문서세단기 CPK-B2760",
+      "image_url": "https://copierlandmall.com/web/product/medium/202409/8370819fb430d6a18e1a71fcabaca985.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7252",
+      "sheet_capacity": 30,
+      "cut_size": "3x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 95,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "50dB",
+        "분리형 박스"
+      ],
+      "best_for": "대형 사무실",
+      "price": 960000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 5400,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "7130",
+      "name": "국산 대형 스틸 저소음 미세꽃가루 문서세단기 RS-6245CX",
+      "image_url": "https://copierlandmall.com/web/product/medium/202410/22c563d992c935b7b639bf7d036a307a.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7130",
+      "sheet_capacity": 15,
+      "cut_size": "2x15mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 45,
+      "run_time_min": 7,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "P-5 보안"
+      ],
+      "best_for": "보안 문서용",
+      "price": 619000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 630,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5880",
+      "name": "중형 미세꽃가루 자동급지 문서세단기 AutoFeed 200C",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/fd76e8f63845f6fc5a1f42264d29564b.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5880",
+      "sheet_capacity": 7,
+      "cut_size": "2x10mm",
+      "autofeed_capacity": 200,
+      "bin_capacity_l": 22,
+      "run_time_min": 5,
+      "features": [
+        "자동급지",
+        "58dB",
+        "P-5 등급"
+      ],
+      "best_for": "대량 자동 세단",
+      "price": 238000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 210,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "5921",
+      "name": "대형 저소음 미세꽃가루 자동급지 문서세단기 GBC 600M",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/e7607ebacb13cd7f437b5a1a8f5f7ba2.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5921",
+      "sheet_capacity": 10,
+      "cut_size": "2x15mm",
+      "autofeed_capacity": 600,
+      "bin_capacity_l": 110,
+      "run_time_min": 240,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "연속 4시간"
+      ],
+      "best_for": "전문 파쇄 부서",
+      "price": 1590000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 14400,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "7291",
+      "name": "소형 극저소음 꽃가루 문서세단기 SC-4410 Noise Free",
+      "image_url": "https://copierlandmall.com/web/product/medium/202411/2d768b8c931e8aaf048d6561c505604a.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7291",
+      "sheet_capacity": 10,
+      "cut_size": "4x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 10,
+      "run_time_min": 6,
+      "features": [
+        "카드",
+        "50dB 극저소음"
+      ],
+      "best_for": "조용한 개인 사무",
+      "price": 98000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5201",
+      "name": "소형 꽃가루 문서세단기 SC-3045",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/9edcdf4958e4ae16c17f96a707920e70.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5201",
+      "sheet_capacity": 5,
+      "cut_size": "4.5x33mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 11,
+      "run_time_min": 5,
+      "features": [
+        "카드",
+        "68dB"
+      ],
+      "best_for": "가성비 소형",
+      "price": 38900,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 150,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "7251",
+      "name": "국산 대형 스틸 저소음 꽃가루 문서세단기 CPK-B2791",
+      "image_url": "https://copierlandmall.com/web/product/medium/202409/0d0196328b252cb0f6cebe44a2e7b240.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7251",
+      "sheet_capacity": 38,
+      "cut_size": "4x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 120,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "50dB"
+      ],
+      "best_for": "관공서/중대형",
+      "price": 1150000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 6840,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "5059",
+      "name": "중형 저소음 미세꽃가루 문서세단기 SC-6227",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/0ee92588c1874bdae64fa4ecc0e81e96.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5059",
+      "sheet_capacity": 7,
+      "cut_size": "2x10mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 22,
+      "run_time_min": 20,
+      "features": [
+        "55dB",
+        "미세꽃가루(P-5)"
+      ],
+      "best_for": "기밀 문서 사무",
+      "price": 179000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 840,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "5079",
+      "name": "중형 꽃가루 자동급지 문서세단기 AutoFeed 120C",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/93c7a85383681504de52e7bb2f7b1056.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5079",
+      "sheet_capacity": 10,
+      "cut_size": "4x12mm",
+      "autofeed_capacity": 120,
+      "bin_capacity_l": 23,
+      "run_time_min": 10,
+      "features": [
+        "카드",
+        "62dB",
+        "자동급지"
+      ],
+      "best_for": "일반 사무 자동화",
+      "price": 189000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 600,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "6322",
+      "name": "소형 꽃가루 문서세단기 S290",
+      "image_url": "https://copierlandmall.com/web/product/medium/202305/5547e1408cc0678a882e122dc6027255.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=6322",
+      "sheet_capacity": 8,
+      "cut_size": "4x45mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 15,
+      "run_time_min": 5,
+      "features": [
+        "카드",
+        "72dB",
+        "헤드분리"
+      ],
+      "best_for": "가정용 기본형",
+      "price": 37800,
+      "derived": {
+        "security_level": "P-2",
+        "volume_estimate_per_day": 240,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "6200",
+      "name": "중형 저소음 스트립컷 문서세단기 T838Plus",
+      "image_url": "https://copierlandmall.com/web/product/medium/202303/359ca594216001c631c0c9e0774bce25.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=6200",
+      "sheet_capacity": 15,
+      "cut_size": "3.9mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 26,
+      "run_time_min": 15,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "국수형"
+      ],
+      "best_for": "고속 대량 폐기",
+      "price": 149000,
+      "derived": {
+        "security_level": "P-2",
+        "volume_estimate_per_day": 1350,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "6851",
+      "name": "소형 세로 꽃가루 문서세단기 SC-4415",
+      "image_url": "https://copierlandmall.com/web/product/medium/202410/1e8c790923a7240aa237ffd34288cfff.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=6851",
+      "sheet_capacity": 10,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 15,
+      "run_time_min": 6,
+      "features": [
+        "카드/CD",
+        "65dB",
+        "슬림형"
+      ],
+      "best_for": "틈새 공간 활용",
+      "price": 95000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5229",
+      "name": "중형 미세꽃가루 문서세단기 S510M",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/d0c59ea4a9df9f0cb6e56e3e2290c24a.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5229",
+      "sheet_capacity": 10,
+      "cut_size": "2x12mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 26,
+      "run_time_min": 5,
+      "features": [
+        "카드",
+        "60dB",
+        "P-5 등급"
+      ],
+      "best_for": "전문 보안 사무",
+      "price": 199000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 300,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "5239",
+      "name": "소형 꽃가루 문서세단기 S250",
+      "image_url": "https://copierlandmall.com/web/product/medium/202409/71deab9e7dcd37cced913fb4e9a4749c.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5239",
+      "sheet_capacity": 6,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 16,
+      "run_time_min": 2,
+      "features": [
+        "카드",
+        "65dB"
+      ],
+      "best_for": "개인용 가성비",
+      "price": 44350,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 72,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "5218",
+      "name": "중형 미세꽃가루 문서세단기 SC-5208",
+      "image_url": "https://copierlandmall.com/web/product/medium/202501/426d2cf04f5b05524a041d75d2e63495.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5218",
+      "sheet_capacity": 10,
+      "cut_size": "2x12mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 16,
+      "run_time_min": 6,
+      "features": [
+        "카드",
+        "65dB",
+        "P-5 등급"
+      ],
+      "best_for": "컴팩트 보안용",
+      "price": 124500,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5228",
+      "name": "중형 꽃가루 문서세단기 S515C",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/55af6c6cae21098da9c054b50f017635.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5228",
+      "sheet_capacity": 15,
+      "cut_size": "4x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 26,
+      "run_time_min": 5,
+      "features": [
+        "카드/CD",
+        "60dB"
+      ],
+      "best_for": "일반 중형 사무",
+      "price": 189000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 450,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5666",
+      "name": "대형 저소음 꽃가루 문서세단기 SC-7420",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/e618ac43593f6beb9e85ce445295b1ea.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5666",
+      "sheet_capacity": 20,
+      "cut_size": "4x34mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 30,
+      "run_time_min": 10,
+      "features": [
+        "카드",
+        "57dB 저소음"
+      ],
+      "best_for": "중대형 사무실",
+      "price": 245000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 1200,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "5217",
+      "name": "중형 꽃가루 문서세단기 SC-5412",
+      "image_url": "https://copierlandmall.com/web/product/medium/202412/d466a210d4d83edb0eaa60dc05e3d2c2.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5217",
+      "sheet_capacity": 15,
+      "cut_size": "4x40mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 16,
+      "run_time_min": 4,
+      "features": [
+        "카드/CD",
+        "65dB"
+      ],
+      "best_for": "실속형 사무용",
+      "price": 118500,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5561",
+      "name": "GBC ShredMaster 100X",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/fb9f7952eb9f62e854bb7095c1f3ddfc.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5561",
+      "sheet_capacity": 8,
+      "cut_size": "4x28mm",
+      "autofeed_capacity": 100,
+      "bin_capacity_l": 34,
+      "run_time_min": 20,
+      "features": [
+        "카드",
+        "55dB",
+        "자동급지"
+      ],
+      "best_for": "고사양 자동화",
+      "price": 278000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 960,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "5675",
+      "name": "중형 꽃가루 문서세단기 SC-6315",
+      "image_url": "https://copierlandmall.com/web/product/medium/202310/e0504401f83baf6501a6496581d63505.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5675",
+      "sheet_capacity": 15,
+      "cut_size": "4x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 18,
+      "run_time_min": 6,
+      "features": [
+        "카드",
+        "56dB",
+        "꽃가루"
+      ],
+      "best_for": "가성비 사무용",
+      "price": 139900,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 540,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "7270",
+      "name": "국산 대형 스틸 저소음 꽃가루 문서세단기 HK-240",
+      "image_url": "https://copierlandmall.com/web/product/medium/202408/734f476dfbd103ce0cd3d5a4cfd38deb.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7270",
+      "sheet_capacity": 15,
+      "cut_size": "3x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 40,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "50dB 저소음"
+      ],
+      "best_for": "고내구성 부서",
+      "price": 549000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 2700,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "3552",
+      "name": "대형 미세꽃가루 자동급지 문서세단기 310M",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/965034f0201c70836893694cee83b2b3.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=3552",
+      "sheet_capacity": 10,
+      "cut_size": "1.9x15mm",
+      "autofeed_capacity": 300,
+      "bin_capacity_l": 40,
+      "run_time_min": 10,
+      "features": [
+        "카드/CD",
+        "60dB",
+        "P-5 등급"
+      ],
+      "best_for": "대량 보안 파쇄",
+      "price": 473000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 600,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5634",
+      "name": "중형 저소음 미세꽃가루 문서세단기 SC-6208",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/d3501c13f4a79e7fd5a4ec7a8b5d5bd1.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5634",
+      "sheet_capacity": 8,
+      "cut_size": "2x15mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 20,
+      "run_time_min": 10,
+      "features": [
+        "카드",
+        "58dB",
+        "미세꽃가루"
+      ],
+      "best_for": "정숙 보안 사무",
+      "price": 179000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 480,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5849",
+      "name": "중형 저소음 자동급지 AutoFeed 60CD",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/203dee3a09a11413134c02d9b21bf292.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5849",
+      "sheet_capacity": 8,
+      "cut_size": "4x30mm",
+      "autofeed_capacity": 60,
+      "bin_capacity_l": 22,
+      "run_time_min": 8,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "자동급지"
+      ],
+      "best_for": "실속형 자동화",
+      "price": 168900,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 384,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5223",
+      "name": "중형 저소음 노이즈프리 SC-7183",
+      "image_url": "https://copierlandmall.com/web/product/medium/202508/ce26436cc2c1146af5e56b9e2d4d65ea.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5223",
+      "sheet_capacity": 16,
+      "cut_size": "4x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 23,
+      "run_time_min": 120,
+      "features": [
+        "스테플러",
+        "<45dB 초저소음"
+      ],
+      "best_for": "장시간 사용 부서",
+      "price": 219600,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 11520,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "5077",
+      "name": "소형 꽃가루 문서세단기 SC-3408",
+      "image_url": "https://copierlandmall.com/web/product/medium/202410/1b8e03a8acf8598b3ff10f06eb4e0068.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5077",
+      "sheet_capacity": 8,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 15,
+      "run_time_min": 2,
+      "features": [
+        "카드",
+        "72dB"
+      ],
+      "best_for": "가성비 소형",
+      "price": 49900,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 96,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "8024",
+      "name": "DELI 대형 자동급지 문서세단기 T921",
+      "image_url": "https://copierlandmall.com/web/product/medium/202503/0b9b503e8ae3b80349bbe6cfb196d174.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8024",
+      "sheet_capacity": 12,
+      "cut_size": "4x12mm",
+      "autofeed_capacity": 200,
+      "bin_capacity_l": 32,
+      "run_time_min": 60,
+      "features": [
+        "스테이플러 가능",
+        "<60dBA"
+      ],
+      "best_for": "대량 사무 자동화",
+      "price": 523000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 4320,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "6935",
+      "name": "소형 꽃가루 문서세단기 SC-3435",
+      "image_url": "https://copierlandmall.com/web/product/medium/202410/8cec22a72ac85fdf52772e812fe3bdef.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=6935",
+      "sheet_capacity": 6,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 12,
+      "run_time_min": 2,
+      "features": [
+        "카드",
+        "69dB",
+        "헤드분리"
+      ],
+      "best_for": "개인용 기본형",
+      "price": 39000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 72,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "8352",
+      "name": "중형 미세꽃가루 저소음 자동급지 AF-M01",
+      "image_url": "https://copierlandmall.com/web/product/medium/202508/6a98768941c4081e8e279efbea366f3a.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8352",
+      "sheet_capacity": 8,
+      "cut_size": "2x12mm",
+      "autofeed_capacity": 100,
+      "bin_capacity_l": 26,
+      "run_time_min": 60,
+      "features": [
+        "스테이플러",
+        "<60dBA",
+        "P-5"
+      ],
+      "best_for": "보안 자동 세단",
+      "price": 296000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 2880,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "7296",
+      "name": "극저소음 문서세단기 SC-4205",
+      "image_url": "https://copierlandmall.com/web/product/medium/202409/1dc497f2bd910f7f18e0e9d2175e2953.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7296",
+      "sheet_capacity": 5,
+      "cut_size": "2x15mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 10,
+      "run_time_min": 6,
+      "features": [
+        "카드",
+        "50dB",
+        "미세꽃가루"
+      ],
+      "best_for": "조용한 개인 보안",
+      "price": 98600,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 180,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "7873",
+      "name": "중형 꽃가루 문서세단기 SC-5410D",
+      "image_url": "https://copierlandmall.com/web/product/medium/202501/65a0ba5e2cbaeb40ddb72f99d1cf6ef7.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7873",
+      "sheet_capacity": 10,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 21,
+      "run_time_min": 6,
+      "features": [
+        "카드/CD",
+        "68dB",
+        "헤드분리"
+      ],
+      "best_for": "범용 사무용",
+      "price": 64000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "7527",
+      "name": "대형 오토 제로더스트 문서세단기 SC-8158",
+      "image_url": "https://copierlandmall.com/web/product/medium/202501/5751d407816f120ebcbf794de5e5d2f0.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7527",
+      "sheet_capacity": 15,
+      "cut_size": "5x12mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 48,
+      "run_time_min": 10,
+      "features": [
+        "카드",
+        "58dB",
+        "먼지억제기능"
+      ],
+      "best_for": "쾌적한 대형 사무",
+      "price": 415000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 900,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "8167",
+      "name": "탁상용 소형 꽃가루 자동 SC-206A",
+      "image_url": "https://copierlandmall.com/web/product/medium/202506/65d2bee0c69b93ceb2411dea2f17c305.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8167",
+      "sheet_capacity": 6,
+      "cut_size": "5x34mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 8.5,
+      "run_time_min": 3,
+      "features": [
+        "카드",
+        "65dB",
+        "컴팩트"
+      ],
+      "best_for": "개인/재택 사무",
+      "price": 48600,
+      "derived": {
+        "security_level": "P-2",
+        "volume_estimate_per_day": 108,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "3553",
+      "name": "대형 꽃가루 자동급지 AutoFeed 314C",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/52176842aabf69b440a64a9ec39f6449.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=3553",
+      "sheet_capacity": 14,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 300,
+      "bin_capacity_l": 40,
+      "run_time_min": 10,
+      "features": [
+        "카드/CD",
+        "60dB",
+        "자동급지"
+      ],
+      "best_for": "대량 일반 문서",
+      "price": 498000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 840,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "8565",
+      "name": "저소음 대형 오토 CPK-A3160",
+      "image_url": "https://copierlandmall.com/web/product/medium/202512/91f06ddaef3886dbeec86169e049d4ef.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8565",
+      "sheet_capacity": 25,
+      "cut_size": "3.9x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 120,
+      "run_time_min": 5,
+      "features": [
+        "저소음 대형 오토"
+      ],
+      "best_for": "산업용/초대용량",
+      "price": 918500,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 750,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "5865",
+      "name": "국산 대형 스틸 저소음 꽃가루 세단기 CPK-A3535 Oil",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/fd6a15fd3d23259faf0f4244c3b8ae16.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5865",
+      "sheet_capacity": 15,
+      "cut_size": "3x23mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 35,
+      "run_time_min": 20,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "오일시스템"
+      ],
+      "best_for": "중형 사무실",
+      "price": 499000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 1800,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "7277",
+      "name": "국산 대형 스틸 저소음 꽃가루 세단기 HK-250M",
+      "image_url": "https://copierlandmall.com/web/product/medium/202409/d3548bb5d71e509bae8b15078331963c.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7277",
+      "sheet_capacity": 15,
+      "cut_size": "3x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 60,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "50dB",
+        "국산 스틸"
+      ],
+      "best_for": "중대형 부서",
+      "price": 640000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 2700,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "7226",
+      "name": "국산 대형 스틸 저소음 꽃가루 세단기 EK-6270SH",
+      "image_url": "https://copierlandmall.com/web/product/medium/202408/30ab9ed58b2bb67b62fec76d88ce45b3.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7226",
+      "sheet_capacity": 28,
+      "cut_size": "3x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 80,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "50dB",
+        "무료설치"
+      ],
+      "best_for": "대형 행정 부서",
+      "price": 820000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 5040,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "6089",
+      "name": "소형 꽃가루 문서세단기 S380",
+      "image_url": "https://copierlandmall.com/web/product/medium/202404/c060f89e5c86d359f4a09e1bbc27496d.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=6089",
+      "sheet_capacity": 10,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 21,
+      "run_time_min": 6,
+      "features": [
+        "카드/CD",
+        "68dB",
+        "헤드분리"
+      ],
+      "best_for": "가성비 사무용",
+      "price": 61000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "4487",
+      "name": "대형 스틸 저소음 꽃가루 세단기 SC-9160",
+      "image_url": "https://copierlandmall.com/web/product/medium/202512/ad9e8da2f47e0c7f7fddeddc4f7c6795.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=4487",
+      "sheet_capacity": 25,
+      "cut_size": "4x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 60,
+      "run_time_min": 5,
+      "features": [
+        "카드/CD",
+        "58dB",
+        "A3 대응"
+      ],
+      "best_for": "대형 도면/문서",
+      "price": 693400,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 750,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "8307",
+      "name": "소형 탁상용 꽃가루 세단기 SC-A01",
+      "image_url": "https://copierlandmall.com/web/product/medium/202508/a7b5b8852c4431a2c2a0bcd5f3dd3c91.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8307",
+      "sheet_capacity": 3,
+      "cut_size": "4x28mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 3.5,
+      "run_time_min": 5,
+      "features": [
+        "스테플러 가능",
+        "<70dB"
+      ],
+      "best_for": "개인 탁상용",
+      "price": 59800,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 90,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "6932",
+      "name": "대형 저소음 미세꽃가루 세단기 SC-8235",
+      "image_url": "https://copierlandmall.com/web/product/medium/202410/8ce7643688a08ab6a47ecbef1825fdfc.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=6932",
+      "sheet_capacity": 12,
+      "cut_size": "2x14mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 35,
+      "run_time_min": 20,
+      "features": [
+        "카드 가능",
+        "52dB",
+        "P-5 등급"
+      ],
+      "best_for": "고보안 사무실",
+      "price": 297000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 1440,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "5845",
+      "name": "국산 대형 스틸 저소음 꽃가루 세단기 CPK-B2560",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/80d764bee1a761c2bccc4eeb4d9d0fbd.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5845",
+      "sheet_capacity": 26,
+      "cut_size": "3x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 60,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "국산"
+      ],
+      "best_for": "중대형 사무실",
+      "price": 879000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 4680,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "5560",
+      "name": "중형 저소음 자동급지 세단기 ShredMaster 150M",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/1915c417f6124b76868e9a121bae0905.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5560",
+      "sheet_capacity": 6,
+      "cut_size": "2x15mm",
+      "autofeed_capacity": 150,
+      "bin_capacity_l": 44,
+      "run_time_min": 30,
+      "features": [
+        "카드",
+        "55dB",
+        "미세꽃가루"
+      ],
+      "best_for": "자동 보안 세단",
+      "price": 359000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 1080,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "7161",
+      "name": "국산 대형 스틸 저소음 미세꽃가루 RS-9236CH",
+      "image_url": "https://copierlandmall.com/web/product/medium/202407/4489ec643ad36b8579a62a870bff61ac.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7161",
+      "sheet_capacity": 15,
+      "cut_size": "2x15mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 60,
+      "run_time_min": 7,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "P-5 등급"
+      ],
+      "best_for": "대형 고보안 부서",
+      "price": 719000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 630,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5844",
+      "name": "국산 대형 스틸 저소음 꽃가루 CPK-B2591",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/7a99630849bb06903f0777e8cc761c12.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5844",
+      "sheet_capacity": 26,
+      "cut_size": "3x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 95,
+      "run_time_min": 30,
+      "features": [
+        "카드/CD",
+        "55dB",
+        "무료설치"
+      ],
+      "best_for": "대형 사업장",
+      "price": 929000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 4680,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "8567",
+      "name": "국산 스틸 대형 문서세단기 CPK-B4580 oil",
+      "image_url": "https://copierlandmall.com/web/product/medium/202512/7a1fb128aef9472db413484e58da59a5.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8567",
+      "sheet_capacity": 25,
+      "cut_size": "4x30mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 90,
+      "run_time_min": 30,
+      "features": [
+        "DIN P-4 등급",
+        "오일형"
+      ],
+      "best_for": "대량 문서 파쇄",
+      "price": 1019000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 4500,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "8271",
+      "name": "국산 스틸 대형 자동급지 CPK-3175AF",
+      "image_url": "https://copierlandmall.com/web/product/medium/202507/9fbe80e74972d70dc25d6648be76ad23.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8271",
+      "sheet_capacity": 18,
+      "cut_size": "3.9x35mm",
+      "autofeed_capacity": 300,
+      "bin_capacity_l": 75,
+      "run_time_min": 10,
+      "features": [
+        "카드/CD",
+        "58dB",
+        "자동급지"
+      ],
+      "best_for": "자동화 대형 사무",
+      "price": 1650000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 1080,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "8270",
+      "name": "국산 스틸 대형 자동급지 CPK-3190AF",
+      "image_url": "https://copierlandmall.com/web/product/medium/202507/052288fe74909803078629ffaf9271bf.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8270",
+      "sheet_capacity": 18,
+      "cut_size": "3.9x35mm",
+      "autofeed_capacity": 300,
+      "bin_capacity_l": 90,
+      "run_time_min": 10,
+      "features": [
+        "카드/CD",
+        "58dB",
+        "분리형박스"
+      ],
+      "best_for": "자동화 전문 부서",
+      "price": 1790000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 1080,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "8269",
+      "name": "국산 스틸 대형 자동급지 CPK-3200AF",
+      "image_url": "https://copierlandmall.com/web/product/medium/202507/95cdfa9a884fc593fb81515a72eb41ea.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8269",
+      "sheet_capacity": 18,
+      "cut_size": "3.9x35mm",
+      "autofeed_capacity": 300,
+      "bin_capacity_l": 110,
+      "run_time_min": 10,
+      "features": [
+        "카드/CD",
+        "58dB",
+        "초대용량"
+      ],
+      "best_for": "전사적 파쇄 센터",
+      "price": 1990000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 1080,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "7475",
+      "name": "소형 꽃가루 문서세단기 SC-3612",
+      "image_url": "https://copierlandmall.com/web/product/medium/202412/fc449c9e3fb04f43843f1408cf070822.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=7475",
+      "sheet_capacity": 8,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 12,
+      "run_time_min": 2,
+      "features": [
+        "카드/스테이플러",
+        "72dB"
+      ],
+      "best_for": "가정용 입문",
+      "price": 65200,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 96,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "5709",
+      "name": "소형 꽃가루 문서세단기 SC-3314",
+      "image_url": "https://copierlandmall.com/web/product/medium/202308/52c5d0e7add9eaac1e79fa4153765ee9.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5709",
+      "sheet_capacity": 6,
+      "cut_size": "4x39mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 13,
+      "run_time_min": 2,
+      "features": [
+        "카드 가능",
+        "65dB"
+      ],
+      "best_for": "개인용 사무",
+      "price": 105000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 72,
+        "people_estimate": 2
+      }
+    },
+    {
+      "id": "5676",
+      "name": "중형 미세꽃가루 세단기 SC-6110",
+      "image_url": "https://copierlandmall.com/web/product/medium/202308/45f6e34ff7d4ef64d6358202d5d14fd5.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5676",
+      "sheet_capacity": 10,
+      "cut_size": "2x14mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 18,
+      "run_time_min": 6,
+      "features": [
+        "카드 가능",
+        "56dB",
+        "P-5 등급"
+      ],
+      "best_for": "컴팩트 고보안",
+      "price": 254100,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    },
+    {
+      "id": "5259",
+      "name": "소형 꽃가루 문서세단기 S285",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/4c117ba9ce5ff0a5afbb77b3c2ac1a8c.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5259",
+      "sheet_capacity": 5,
+      "cut_size": "4.5x33mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 11,
+      "run_time_min": 5,
+      "features": [
+        "카드 가능",
+        "68dB",
+        "P-3 등급"
+      ],
+      "best_for": "저가형 실속모델",
+      "price": 26900,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 150,
+        "people_estimate": 4
+      }
+    },
+    {
+      "id": "5221",
+      "name": "중형 꽃가루 문서세단기 SC-6156",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/99efa2f8354b3083438583907e76b549.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5221",
+      "sheet_capacity": 18,
+      "cut_size": "4x35mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 16,
+      "run_time_min": 10,
+      "features": [
+        "카드 가능",
+        "62dB"
+      ],
+      "best_for": "일반 실무 부서",
+      "price": 168000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 1080,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "5216",
+      "name": "대형 스틸 저소음 꽃가루 세단기 SC-9300",
+      "image_url": "https://copierlandmall.com/web/product/medium/202502/0f1afb29bdb46cb506c61c12912f4c38.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5216",
+      "sheet_capacity": 25,
+      "cut_size": "4x38mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 100,
+      "run_time_min": 5,
+      "features": [
+        "카드/CD",
+        "58dB",
+        "무료설치"
+      ],
+      "best_for": "대형 오피스",
+      "price": 867900,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 750,
+        "people_estimate": 15
+      }
+    },
+    {
+      "id": "8557",
+      "name": "국산 스틸 대형 문서세단기 EK-6270PS",
+      "image_url": "https://copierlandmall.com/web/product/medium/202512/9941db4e7e2c39a0bb12eb0bc5343ff7.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=8557",
+      "sheet_capacity": 22,
+      "cut_size": "2x10mm",
+      "autofeed_capacity": 0,
+      "bin_capacity_l": 80,
+      "run_time_min": 30,
+      "features": [
+        "P-5 마이크로컷",
+        "스틸"
+      ],
+      "best_for": "대량 고보안 처리",
+      "price": 928000,
+      "derived": {
+        "security_level": "P-5",
+        "volume_estimate_per_day": 3960,
+        "people_estimate": 25
+      }
+    },
+    {
+      "id": "5562",
+      "name": "중형 저소음 자동급지 ShredMaster 50X",
+      "image_url": "https://copierlandmall.com/web/product/medium/202401/1ac777921a137fa983f2145cfab8ac9a.jpg",
+      "product_url": "https://copierlandmall.com/product/detail.html?product_no=5562",
+      "sheet_capacity": 6,
+      "cut_size": "4x28mm",
+      "autofeed_capacity": 50,
+      "bin_capacity_l": 20,
+      "run_time_min": 10,
+      "features": [
+        "카드 가능",
+        "55dB",
+        "자동급지"
+      ],
+      "best_for": "소규모 자동화",
+      "price": 199000,
+      "derived": {
+        "security_level": "P-4",
+        "volume_estimate_per_day": 360,
+        "people_estimate": 8
+      }
+    }
+  ]
+}

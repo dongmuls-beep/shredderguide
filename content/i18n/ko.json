@@ -1,0 +1,109 @@
+﻿{
+  "locale": "ko",
+  "site": {
+    "title": "문서세단기 추천 AI 에이전트",
+    "subtitle": "5가지 사용 시나리오 중 하나를 고르고 예산을 입력하면 상황에 맞는 문서세단기 3종을 추천합니다."
+  },
+  "nav": {
+    "home": "추천",
+    "shredders": "전체 문서세단기",
+    "maintenance": "유지관리",
+    "switchToKo": "한국어",
+    "switchToEn": "English"
+  },
+  "wizard": {
+    "title": "문서세단기 추천 마법사",
+    "subtitle": "사용 시나리오와 예산을 설정해 맞춤 추천을 받아보세요.",
+    "profile": {
+      "label": "사용 시나리오를 선택하세요",
+      "hint": "현재 업무 환경과 가장 비슷한 항목을 선택하세요.",
+      "options": {
+        "home_light": {
+          "title": "보기 1: 개인/가정",
+          "description": "가벼운 사용량, 낮은 예산, 조용한 운영"
+        },
+        "small_office": {
+          "title": "보기 2: 소형 사무실",
+          "description": "3~5인 환경의 일반 문서 처리"
+        },
+        "team_standard": {
+          "title": "보기 3: 팀 공용",
+          "description": "부서 단위의 중간~대량 문서 처리"
+        },
+        "security_sensitive": {
+          "title": "보기 4: 보안 민감",
+          "description": "기밀 문서 파쇄 비중이 높은 환경"
+        },
+        "enterprise_archive": {
+          "title": "보기 5: 대량 아카이브",
+          "description": "지속적인 대량 처리와 장시간 운행 환경"
+        }
+      }
+    },
+    "actions": {
+      "submit": "추천받기",
+      "reset": "초기화"
+    },
+    "budget": {
+      "label": "예산 입력 (선택)",
+      "hint": "비워두면 예산 제한 없이 추천합니다.",
+      "placeholder": "예: 300000"
+    }
+  },
+  "recommendation": {
+    "title": "추천 결과",
+    "strictMode": "예산 내 추천",
+    "nearMode": "근접 추천",
+    "noData": "표시할 데이터가 없습니다.",
+    "reasonPeople": "인원 적합도",
+    "reasonVolume": "일일 처리량 적합도",
+    "reasonBudget": "예산 적합도",
+    "dailyVolume": "예상 일일 처리량",
+    "runTime": "연속 세단 시간",
+    "sheetCapacity": "단일 투입 매수",
+    "binCapacity": "파지함 용량",
+    "securityLevel": "보안 등급",
+    "buyNow": "상품 보기",
+    "currency": "KRW"
+  },
+  "maintenanceSummary": {
+    "title": "유지관리 핵심 가이드",
+    "description": "오일링, 막힘 대응, 과열 관리 루틴으로 장비 수명을 안정적으로 유지하세요.",
+    "cta": "전체 유지관리 가이드 보기"
+  },
+  "catalog": {
+    "title": "전체 문서세단기",
+    "subtitle": "검색, 필터, 정렬로 필요한 모델을 빠르게 찾으세요.",
+    "searchPlaceholder": "이름, 특징, 용도로 검색",
+    "filters": {
+      "title": "필터",
+      "minPrice": "가격대",
+      "minSecurityLevel": "보안 등급",
+      "maxPrice": "최대 가격",
+      "minSheetCapacity": "단일 투입 매수",
+      "minAutofeedCapacity": "자동급지 매수",
+      "minBinCapacity": "파지함 용량(L)",
+      "minRunTime": "연속 세단 시간(분)",
+      "apply": "적용",
+      "close": "닫기",
+      "open": "필터 열기",
+      "reset": "초기화"
+    },
+    "sort": {
+      "label": "정렬",
+      "recommended": "추천순",
+      "priceAsc": "가격 낮은순",
+      "priceDesc": "가격 높은순"
+    },
+    "pagination": {
+      "previous": "이전",
+      "next": "다음",
+      "page": "페이지"
+    },
+    "empty": "조건에 맞는 문서세단기가 없습니다."
+  },
+  "maintenance": {
+    "title": "문서세단기 유지관리",
+    "subtitle": "실제 운영에서 중요한 유지관리 포인트를 쉽게 확인하세요."
+  }
+}
